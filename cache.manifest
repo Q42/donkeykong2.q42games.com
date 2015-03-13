@@ -1,0 +1,21 @@
+CACHE MANIFEST
+#V9
+NETWORK:
+*
+CACHE:
+css/dk2.css
+js/enemies.js
+js/game.js
+js/junior.js
+js/key.js
+js/kong.js
+js/sound0.js
+js/digits.js
+img/icon.png
+img/tiles.png
+img/ipad.png
+img/controller.png
+img/jump.png
+img/start.png
+img/splash.png
+img/title.png
